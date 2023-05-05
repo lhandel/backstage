@@ -1,5 +1,17 @@
 # @backstage/plugin-explore
 
+## 0.4.3-next.2
+
+### Patch Changes
+
+- 4851581deb6: Display the title of the entity on the explore card if present, otherwise stick to the name
+- a6025e25d99: Updated the example code in the "Customization" section of the README to make the imports match the components used.
+- Updated dependencies
+  - @backstage/core-components@0.13.1-next.1
+  - @backstage/plugin-search-react@1.6.0-next.2
+  - @backstage/plugin-catalog-react@1.6.0-next.2
+  - @backstage/plugin-explore-react@0.0.28
+
 ## 0.4.3-next.1
 
 ### Patch Changes

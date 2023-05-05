@@ -1,5 +1,11 @@
 # @backstage/core-components
 
+## 0.13.1-next.1
+
+### Patch Changes
+
+- e97769f7c0b: Fix accessibility issue on controlled select input on tab navigation + keyboard enter/space action.
+
 ## 0.13.1-next.0
 
 ### Patch Changes
