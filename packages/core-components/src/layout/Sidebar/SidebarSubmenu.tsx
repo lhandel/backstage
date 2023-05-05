@@ -27,6 +27,8 @@ import {
 } from './config';
 import { useSidebarOpenState } from './SidebarOpenStateContext';
 
+export type SidebarSubmenuClassKey = 'drawer' | 'drawerOpen' | 'title';
+
 const useStyles = makeStyles<
   BackstageTheme,
   { submenuConfig: SubmenuConfig; left: number }
