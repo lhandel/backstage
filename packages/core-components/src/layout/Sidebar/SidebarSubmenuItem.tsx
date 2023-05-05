@@ -29,6 +29,7 @@ import { isLocationMatch } from './utils';
 import Box from '@material-ui/core/Box';
 import Button from '@material-ui/core/Button';
 
+export type SidebarSubmenuItemClassKey = 'selected' | 'item' | 'subtitle';
 const useStyles = makeStyles<BackstageTheme>(
   theme => ({
     item: {
