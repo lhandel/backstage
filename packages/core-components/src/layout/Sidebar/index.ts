@@ -21,9 +21,8 @@ export { SidebarGroup } from './SidebarGroup';
 export type { SidebarGroupProps } from './SidebarGroup';
 export { SidebarSubmenuItem } from './SidebarSubmenuItem';
 export { SidebarSubmenu } from './SidebarSubmenu';
-export type { SidebarSubmenuClassKey, SidebarSubmenuProps } from './SidebarSubmenu';
+export type { SidebarSubmenuProps } from './SidebarSubmenu';
 export type {
-  SidebarSubmenuItemClassKey,
   SidebarSubmenuItemProps,
   SidebarSubmenuItemDropdownItem,
 } from './SidebarSubmenuItem';

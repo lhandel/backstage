@@ -86,13 +86,11 @@ import {
   SidebarIntroClassKey,
   SidebarItemClassKey,
   SidebarPageClassKey,
-  SidebarSubmenuClassKey,
   CustomProviderClassKey,
   SignInPageClassKey,
   TabbedCardClassKey,
   BoldHeaderClassKey,
   CardTabClassKey,
-  SidebarSubmenuItemClassKey,
 } from './layout';
 
 type BackstageComponentsNameToClassKey = {
@@ -162,8 +160,6 @@ type BackstageComponentsNameToClassKey = {
   BackstageSidebarIntro: SidebarIntroClassKey;
   BackstageSidebarItem: SidebarItemClassKey;
   BackstageSidebarPage: SidebarPageClassKey;
-  BackstageSidebarSubmenu: SidebarSubmenuClassKey;
-  BackstageSidebarSubmenuItem: SidebarSubmenuItemClassKey;
   BackstageCustomProvider: CustomProviderClassKey;
   BackstageSignInPage: SignInPageClassKey;
   BackstageTabbedCard: TabbedCardClassKey;
